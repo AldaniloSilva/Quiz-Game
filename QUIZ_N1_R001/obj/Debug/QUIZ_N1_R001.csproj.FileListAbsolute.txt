@@ -1,0 +1,20 @@
+C:\Users\alsilva\Desktop\CEFSA\QUIZ_N1_R001\QUIZ_N1_R001\bin\Debug\QUIZ_N1_R001.exe.config
+C:\Users\alsilva\Desktop\CEFSA\QUIZ_N1_R001\QUIZ_N1_R001\bin\Debug\QUIZ_N1_R001.exe
+C:\Users\alsilva\Desktop\CEFSA\QUIZ_N1_R001\QUIZ_N1_R001\bin\Debug\QUIZ_N1_R001.pdb
+C:\Users\alsilva\Desktop\CEFSA\QUIZ_N1_R001\QUIZ_N1_R001\obj\Debug\QUIZ_N1_R001.csprojResolveAssemblyReference.cache
+C:\Users\alsilva\Desktop\CEFSA\QUIZ_N1_R001\QUIZ_N1_R001\obj\Debug\QUIZ_N1_R001.exe
+C:\Users\alsilva\Desktop\CEFSA\QUIZ_N1_R001\QUIZ_N1_R001\obj\Debug\QUIZ_N1_R001.pdb
+E:\ALGORITMO II\Exercicio\QUIZ_N1_R001\QUIZ_N1_R001\bin\Debug\QUIZ_N1_R001.exe.config
+E:\ALGORITMO II\Exercicio\QUIZ_N1_R001\QUIZ_N1_R001\bin\Debug\QUIZ_N1_R001.exe
+E:\ALGORITMO II\Exercicio\QUIZ_N1_R001\QUIZ_N1_R001\bin\Debug\QUIZ_N1_R001.pdb
+E:\ALGORITMO II\Exercicio\QUIZ_N1_R001\QUIZ_N1_R001\obj\Debug\QUIZ_N1_R001.csprojResolveAssemblyReference.cache
+E:\ALGORITMO II\Exercicio\QUIZ_N1_R001\QUIZ_N1_R001\obj\Debug\QUIZ_N1_R001.csproj.CoreCompileInputs.cache
+E:\ALGORITMO II\Exercicio\QUIZ_N1_R001\QUIZ_N1_R001\obj\Debug\QUIZ_N1_R001.exe
+E:\ALGORITMO II\Exercicio\QUIZ_N1_R001\QUIZ_N1_R001\obj\Debug\QUIZ_N1_R001.pdb
+F:\ALGORITMO II\Exercicio\QUIZ_N1_R001\QUIZ_N1_R001\bin\Debug\QUIZ_N1_R001.exe.config
+F:\ALGORITMO II\Exercicio\QUIZ_N1_R001\QUIZ_N1_R001\bin\Debug\QUIZ_N1_R001.exe
+F:\ALGORITMO II\Exercicio\QUIZ_N1_R001\QUIZ_N1_R001\bin\Debug\QUIZ_N1_R001.pdb
+F:\ALGORITMO II\Exercicio\QUIZ_N1_R001\QUIZ_N1_R001\obj\Debug\QUIZ_N1_R001.csprojResolveAssemblyReference.cache
+F:\ALGORITMO II\Exercicio\QUIZ_N1_R001\QUIZ_N1_R001\obj\Debug\QUIZ_N1_R001.csproj.CoreCompileInputs.cache
+F:\ALGORITMO II\Exercicio\QUIZ_N1_R001\QUIZ_N1_R001\obj\Debug\QUIZ_N1_R001.exe
+F:\ALGORITMO II\Exercicio\QUIZ_N1_R001\QUIZ_N1_R001\obj\Debug\QUIZ_N1_R001.pdb
